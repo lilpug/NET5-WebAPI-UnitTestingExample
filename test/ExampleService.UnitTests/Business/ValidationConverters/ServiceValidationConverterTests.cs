@@ -1,4 +1,4 @@
-﻿using ExampleService.Business;
+﻿using ExampleService.Business.ValidationConverters;
 using ExampleService.Data.Interfaces;
 using FluentValidation.Results;
 using NUnit.Framework;
