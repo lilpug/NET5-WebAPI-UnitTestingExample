@@ -3,7 +3,7 @@ using System.Linq;
 using ExampleService.Data.Interfaces;
 using FluentValidation.Results;
 
-namespace ExampleService.Business
+namespace ExampleService.Business.ValidationConverters
 {
     public class ServiceValidationConverter: IServiceValidationConverter
     {
