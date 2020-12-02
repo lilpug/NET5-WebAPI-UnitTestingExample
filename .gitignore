@@ -1,0 +1,10 @@
+#Ignore files build by Visual Studio
+*.suo
+**/.vs/*
+**/bin/*
+**/obj/*
+compiled/debug/*
+**/.idea/*
+DotNetTools/nuget/*
+*.user
+**/*.user
